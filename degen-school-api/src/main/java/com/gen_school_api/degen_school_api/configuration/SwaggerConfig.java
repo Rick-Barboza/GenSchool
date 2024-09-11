@@ -24,14 +24,14 @@ public class SwaggerConfig {
                 .version("v0.0.1")
                 .license(new License()
                     .name("Ricardo Barboza")
-                    .url("Link do Git"))
+                    .url("https://github.com/Rick-Barboza/GenSchool.git"))
                 .contact(new Contact()
                     .name("Generation School Api")
-                    .url("Link do git")
+                    .url("https://github.com/Rick-Barboza/GenSchool.git")
                     .email("cadutt@hotmail.com")))
             .externalDocs(new ExternalDocumentation()
                 .description("Github")
-                .url("Link do Git"));
+                .url("https://github.com/Rick-Barboza/GenSchool.git"));
     }
 
 
